@@ -1,0 +1,8 @@
+"Crop Name","Nutrients","Irrigation","Processing"
+"Rice","Nitrogen, Phosphorus, Potassium","Flood Irrigation","Milling"
+"Wheat","Nitrogen, Phosphorus, Potassium","Sprinkler Irrigation","Milling"
+"Maize","Nitrogen, Phosphorus, Potassium","Drip Irrigation","Drying"
+"Soybean","Nitrogen, Phosphorus, Potassium","Rainfed","Processing"
+"Sugarcane","Nitrogen, Phosphorus, Potassium","Flood Irrigation","Processing"
+"Cotton","Nitrogen, Phosphorus, Potassium","Drip Irrigation","Ginning"
+"Paddy","Nitrogen, Phosphorus, Potassium","Flood Irrigation","Milling"
